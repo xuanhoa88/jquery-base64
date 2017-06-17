@@ -1,0 +1,19 @@
+{
+  "name": "jquery-base64",
+  "version": "1.0.0",
+  "description": "jquery, base64",
+  "main": "jquery.base64.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanhoa88/jquery-base64.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuanhoa88/jquery-base64/issues"
+  },
+  "homepage": "https://github.com/xuanhoa88/jquery-base64#readme"
+}
